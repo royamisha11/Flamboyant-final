@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" VASE",
+        "price": 200,
+        "image": "16.jpg"
+    },
+    {
+        "id": 2,
+        "name":" DOOR",
+        "price": 250,
+        "image": "17.jpg"
+    },
+    {
+        "id": 3,
+        "name":" LOTUS LEAVES",
+        "price": 290,
+        "image": "18.jpg"
+    },
+    {
+        "id": 4,
+        "name":" STRIPES",
+        "price": 200,
+        "image": "19.jpg"
+    },
+    {
+        "id": 5,
+        "name":" LIGHT",
+        "price": 300,
+        "image": "20.jpg"
+    },
+    {
+        "id": 6,
+        "name":" FLOWERS",
+        "price": 200,
+        "image": "21.jpg"
+    },
+    {
+        "id": 7,
+        "name":" LEAVES",
+        "price": 200,
+        "image": "22.jpg"
+    },
+    {
+        "id": 8,
+        "name":" BLUE",
+        "price": 200,
+        "image": "23.jpg"
+    }
+
+]
